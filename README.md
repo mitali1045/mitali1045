@@ -1,7 +1,7 @@
 👋 Hi, I’m Mitali!
 I’m interested in Data Science and Analytics.
 I’m currently learning MS in Data Science at Indiana University,Bloomington and 
-I’m looking for Data Science Summer 2022 internship opportunities in the US.
+I’m looking for Full time Data Science opportunities in the US.
 Please reach me @ tavildarmitali10@gmail.com
 
 <!---
