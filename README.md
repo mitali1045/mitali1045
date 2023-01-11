@@ -1,6 +1,6 @@
 👋 Hi, I’m Mitali!
 I’m interested in Data Science and Analytics.
-I’m currently learning MS in Data Science at Indiana University,Bloomington and 
+I’m currently pursuing MS in Data Science at Indiana University,Bloomington and I bring with me 3+ years of work experience as a Data scientist.
 I’m looking for Full time Data Science opportunities in the US.
 Please reach me @ tavildarmitali10@gmail.com
 
