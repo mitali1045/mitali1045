@@ -4,7 +4,7 @@
 🎓 MS in Data Science — Indiana University, Bloomington (USA)  
 🎓 BE in Information Technology — Mumbai University (India)  
 
-I love building end-to-end AI systems: from RAG pipelines and LLM agents to real-world applications in sustainability, healthcare, finance, and beyond.  
+I enjoy building end-to-end AI systems: from RAG pipelines and LLM agents to real-world applications in sustainability, healthcare, finance, and beyond.  
 
 📫 Reach me: tavildarmitali10@gmail.com  
 
